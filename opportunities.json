@@ -28,9 +28,41 @@
       "eligibility": ["high school", "college"],
       "description": "Apply to the **EcoTech Innovation Awards 2024** to showcase your project and win funding! Details [here](https://example.com/ecotech-awards).",
       "expireDate": "15-10-2024",
-      "hookStatus": "FREE",
+      "hookStatus": "amazing",
       "pinned": false,
       "user": "username2"
+    },
+    {
+      "id": 3,
+      "title": "AI and Robotics Global Summit",
+      "url": "https://example.com/ai-robotics-summit",
+      "image": "https://example.com/image/ai-robotics.png",
+      "organizer": "Tech Summit Global",
+      "types": ["conference", "showcase"],
+      "topics": ["AI", "robotics"],
+      "location": "On-site",
+      "eligibility": ["all"],
+      "description": "Attend the **AI and Robotics Global Summit** to learn the latest trends in AI and robotics. For more info, visit [here](https://example.com/ai-robotics-summit).",
+      "expireDate": "30-09-2024",
+      "hookStatus": "global",
+      "pinned": true,
+      "user": "username3"
+    },
+    {
+      "id": 4,
+      "title": "NextGen EdTech Innovation Competition",
+      "url": "https://example.com/edtech-competition",
+      "image": "https://example.com/image/edtech.png",
+      "organizer": "NextGen Innovation",
+      "types": ["competition", "fund"],
+      "topics": ["edtech", "innovation"],
+      "location": "Online",
+      "eligibility": ["college", "graduate"],
+      "description": "Participate in the **NextGen EdTech Innovation Competition** for a chance to win funding for your project. Learn more [here](https://example.com/edtech-competition).",
+      "expireDate": "20-11-2024",
+      "hookStatus": "featured",
+      "pinned": false,
+      "user": "username4"
     }
   ]
 }
