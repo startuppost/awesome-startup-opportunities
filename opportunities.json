@@ -1,0 +1,36 @@
+{
+  "opportunities": [
+    {
+      "id": 1,
+      "title": "Global Startup Challenge 2024",
+      "url": "https://example.com/startup-challenge",
+      "image": "https://example.com/image/startup-challenge.png",
+      "organizer": "Startup World",
+      "types": ["competition", "showcase"],
+      "topics": ["AI", "edtech"],
+      "location": "Online",
+      "eligibility": ["college", "graduate"],
+      "description": "Join the **Global Startup Challenge**! Compete with the brightest minds globally. For more details, visit [here](https://example.com/startup-challenge).",
+      "expireDate": "31-12-2024",
+      "hookStatus": "new",
+      "pinned": true,
+      "user": "username1"
+    },
+    {
+      "id": 2,
+      "title": "EcoTech Innovation Awards 2024",
+      "url": "https://example.com/ecotech-awards",
+      "image": "https://example.com/image/ecotech.png",
+      "organizer": "Green Innovations",
+      "types": ["fund", "competition"],
+      "topics": ["environment", "technology"],
+      "location": "Online",
+      "eligibility": ["high school", "college"],
+      "description": "Apply to the **EcoTech Innovation Awards 2024** to showcase your project and win funding! Details [here](https://example.com/ecotech-awards).",
+      "expireDate": "15-10-2024",
+      "hookStatus": "amazing",
+      "pinned": false,
+      "user": "username2"
+    }
+  ]
+}
